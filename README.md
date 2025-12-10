@@ -1,1 +1,3 @@
 “Everything that is built, however high, casts but a shadow that deepens toward a final, formless night. We are not architects, Eunomius, but the dust that clings to the collapsing stone. Why chase the substance when the dissolution is the only truth?”
+
+- **Hyptotes**
